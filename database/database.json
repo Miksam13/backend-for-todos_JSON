@@ -1,0 +1,43 @@
+{
+	"users": [
+		{
+			"id": "29l825IpX6Ciu2AnS7C0UXOGJWI8ReoW",
+			"login": "test",
+			"password": "123",
+			"items": [
+				{
+					"text": "fff",
+					"id": 1672959608720,
+					"checked": true
+				},
+				{
+					"text": "ggg",
+					"id": 1672960767774,
+					"checked": false
+				},
+				{
+					"id": 1672960959555,
+					"text": "ddsdsf",
+					"checked": false
+				},
+				{
+					"id": 1672960983408,
+					"text": "fff",
+					"checked": false
+				}
+			]
+		},
+		{
+			"id": "bc7bf1bc7b58dbe03eecfac42602e29507290d45",
+			"login": "maks1313137022@gmail.com",
+			"password": "pupkin002256",
+			"items": [
+				{
+					"text": "world",
+					"id": "32",
+					"checked": false
+				}
+			]
+		}
+	]
+}
